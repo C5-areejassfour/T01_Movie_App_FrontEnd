@@ -1,0 +1,20 @@
+.nn {
+  margin: 5px 15px 0 0;
+  color: black;
+  font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospac;
+  cursor: pointer;
+}
+.nn1 {
+    margin: 5px 5px 0 0;
+    color: black;
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospac;
+    background-color:#ffc107 ;
+    border-color: #ffc107;
+    cursor: pointer;
+    
+  }
+  .ll{
+    background-color: white;
+    width: 10px;
+  }
+

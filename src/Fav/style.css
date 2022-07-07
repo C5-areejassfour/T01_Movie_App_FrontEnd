@@ -1,0 +1,26 @@
+.delete{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.imgg1{
+    height:35%;
+}
+.h12{
+    color: rgb(255, 193, 7);
+    margin-top: 5px;
+    font-family: serif;
+  
+  }
+  .ss1{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1.5rem 1.5rem;
+    width: 90%;
+    /* margin-left: 230px; */
+    margin-top: 20px;
+  }
